@@ -1,1 +1,2 @@
-# Java-ile-Backend_Web_Development_Projeleri_PatikaDev
+## Java’da Quick Sort (Hızlı Sıralama) algoritması
+![java quick sort](https://i.hizliresim.com/6qudm5s.png)
